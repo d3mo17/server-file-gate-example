@@ -1,0 +1,6 @@
+# This directory is prepared for your sample data
+# Ignore all files in version control for this directory ...
+*
+
+# ... except for this one.
+!.gitignore

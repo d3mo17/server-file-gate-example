@@ -1,0 +1,17 @@
+{
+    "description": "Example to show how to use the project d3mo17/server-file-gate",
+    "name": "d3mo17/server-file-gate-example",
+    "version": "1.0.0",
+    "type": "project",
+    "license": "mit",
+    "keywords": ["example", "server-file-gate"],
+    "authors": [
+      {
+        "name": "Daniel Moritz"
+      }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "d3mo17/server-file-gate": "^0.11"
+    }
+}
